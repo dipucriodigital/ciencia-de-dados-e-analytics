@@ -5,5 +5,5 @@ Coordenação:
 * Prof. Hélio Côrtes Vieira Lopes (*lopes@inf.puc-rio.br*)
 * Prof. Tatiana Escovedo (*tatiana@inf.puc-rio.br*)
 
-Mais informações em: https://especializacao.ccec.puc-rio.br/especializacao/ciencia-de-dados-e-analytics?gclid=Cj0KCQjwnvOaBhDTARIsAJf8eVOUSN3QbYeXy9xjJ1ae6oSIVyiPUHRwB1WD0yATEMJ8GxwWLNGfuJoaApUgEALw_wcB
+Mais informações em: https://especializacao.ccec.puc-rio.br/especializacao/ciencia-de-dados-e-analytics
 
