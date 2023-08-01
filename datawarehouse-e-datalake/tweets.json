@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "username": "user1",
+    "tweet": "Primeiro tweet!",
+    "likes": 10
+  },
+  {
+    "id": 2,
+    "username": "user2",
+    "tweet": "Segundo tweet!",
+    "likes": 15
+  },
+  {
+    "id": 3,
+    "username": "user3",
+    "tweet": "Mais um tweet!",
+    "likes": 5
+  }
+]
