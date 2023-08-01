@@ -1,0 +1,42 @@
+DevOps
+
+Grassroots é a denominação dada a um tipo de movimento social em que se enfatiza o empoderamento de grupos locais e uma hierarquia mais horizontal, 
+em vez de uma hierarquia vertical com uma liderança forte e centralizada. Também pode ser chamado de movimento de raiz ou comunocêntrico.
+
+DevOps is the combination of industry best practices, and set of tools that improve an organization’s ability to:
+Increase the speed of software delivery
+Increases the speed of software evolution
+Have better reliability of the software
+Have scalability using automation,
+Improved collaboration among teams.
+In other words, these tools enable a company to showcase industry best practices in software development.
+
+Issues that DevOps tries to solve:
+Unpredictable deployments
+Mismatched environments (development doesn’t match production)
+Configuration Drift
+
+DevOps best practices and tools
+One of the benefits of using DevOps is that it allows predictable deployments using automated scripts. 
+In the DevOps model, development and operations teams are merged into a single team. 
+These DevOps teams use a few tools and best practices that deploy and manage configuration changes to servers. 
+Stackexchange has a discussion post detailing the difference between DevOps tools vs. Software Configuration Tools.
+
+The most important practices are:
+Continuous Integration / Continuous Delivery (CI/CD) - new features are automatically deployed with all the required dependencies.
+Infrastructure as Code (IaaC) - configuration and management of cloud infrastructure using re-usable scripts.
+
+Other prevalent practices are:
+Microservices
+Monitoring and Logging
+Communication and Collaboration
+
+Glossary
+Continuous Integration Continuous Deployment (CI/CD): Tracks the development workflow from testing through production. 
+Continuous integration is the process flow of testing any change made to your development flow, 
+while continuous deployment tracks those changes through to staging and production systems. 
+You may like to read this article by Atlassian.com that describes CI/CD in detail.
+
+Infrastructure as code (IaaC): Provision and manages the cloud-infrastructure by using scripts. 
+These scripts can be written in YAML or JSON format. These scripts ensure that the same architecture can be re-built multiple numbers of times. 
+These scripts are particularly useful in enterprise applications and different environments - dev, prod, or test. Read more here.
