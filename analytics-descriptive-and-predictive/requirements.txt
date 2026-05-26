@@ -1,7 +1,8 @@
-numpy==1.26.4
-scipy==1.13.1
-scikit-learn==1.5.2
+numpy==2.0.0
+scipy==1.14.1
+scikit-learn==1.6.0
 matplotlib==3.9.2
-keras==3.6.0 
-tensorflow==2.16.2
-pandas==2.2.3
+keras==3.13.0
+tensorflow==2.20.0
+pandas==2.2.2
+threadpoolctl==3.1.0
